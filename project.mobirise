@@ -731,7 +731,7 @@
                 "title": "Wiedza i doświadczenie",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Największe w Polsce. Ponad 2000 skonsultowanych pacjentów.<br>",
+                "text": "Największe w Polsce. Ponad 4000 skonsultowanych pacjentów.<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">DOWIEDZ SIĘ WIECEJ</a>",
                 "overlayOpacity": "0.3",
                 "overlayColor": "#232323"
